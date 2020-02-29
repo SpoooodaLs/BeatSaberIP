@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Zingabopp/BeatSaberMultiplayerServerRepo/master/ServerRepositorySchema.json",
+  "RepositoryName": "SpoooodaLs Server List",
+  "RepositoryDescription": "A collection of servers as setup by SpoooodaLs himself",
+  "Servers": [
+      {
+          "ServerName": "SpoooodaLs TTV Server",
+          "ServerAddress": "spoods.bounceme.net",
+          "ServerPort": 3700
+      }
+  ]
+}
