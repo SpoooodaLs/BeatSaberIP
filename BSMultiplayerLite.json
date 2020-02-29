@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/Zingabopp/BeatSaberMultiplayerServerRepo/master/ServerRepositorySchema.json",
+  "$schema": "https://raw.githubusercontent.com/SpoooodaLs/BeatSaberIP/master/BSMultiplayerLite.json",
   "RepositoryName": "SpoooodaLs Server List",
   "RepositoryDescription": "A collection of servers as setup by SpoooodaLs himself",
   "Servers": [
